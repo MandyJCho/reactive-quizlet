@@ -1,0 +1,6 @@
+[submodule "reactive-quizlet-client"]
+	path = client
+	url = https://github.com/MandyJCho/reactive-quizlet-client.git
+[submodule "reactive-quizlet-server"]
+	path = server
+	url = https://github.com/MandyJCho/reactive-quizlet-server.git
