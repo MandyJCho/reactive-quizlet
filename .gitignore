@@ -1,0 +1,15 @@
+#node modules
+node_modules/
+
+#webstorm 
+.idea/
+
+#log files
+*.log
+src/.DS_Store
+
+#credentials and configurations
+configs/
+
+#serverless details
+src/server/setup/serverless.yml

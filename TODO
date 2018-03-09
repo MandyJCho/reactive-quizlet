@@ -1,0 +1,14 @@
+TODO:
+- FIX WHERE REDUX IS BEING CALLED
+
+- Add card dashboard
+- Add card to redux
+- Add graphql
+- Setup dynamodb and lambda connection
+- user authen
+
+Nice to haves:
+- Docker
+- Custom SCSS
+
+
